@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bonedaddy)](https://github.com/bonedaddy/bonedaddy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bonedaddy&hide=stars,contribs&show_icons=true&hide_title=true&hide_rank=true&count_private=true&icon_color=5A85F3&include_all_commits=true))](https://github.com/bonedaddy/bonedaddy)
