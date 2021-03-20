@@ -6,6 +6,23 @@
 
 # Stuff I've Worked on 
 
-> stuff i've worked on that includes pinned repositories and more
+stuff i've worked on that includes pinned repositories and more
 
-.. todo..
+## Misc
+
+* [cnet](https://github.com/bonedaddy/cnet)
+* [ulog](https://github.com/bonedaddy/ulog)
+
+## Blockchain
+
+* [go-indexed](https://github.com/bonedaddy/go-indexed)
+* [go-defi](https://github.com/bonedaddy/go-defi)
+
+## Decentralized Networks
+
+* [Temporal](https://github.com/RTradeLtd/Temporal)
+* [libcp2p](https://github.com/RTradeLtd/libcp2p)
+
+## Cybersecurity
+
+* [escort](https://github.com/bonedaddy/escort)
