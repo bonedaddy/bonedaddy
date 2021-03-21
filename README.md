@@ -10,19 +10,21 @@ stuff i've worked on that includes pinned repositories and more
 
 ## Misc
 
-* [cnet](https://github.com/bonedaddy/cnet)
-* [ulog](https://github.com/bonedaddy/ulog)
+* [cnet - C language network programming helper library](https://github.com/bonedaddy/cnet)
+* [ulog - C language logging library](https://github.com/bonedaddy/ulog)
+* [gotemplate - Go language template repository for starting new applications](https://github.com/bonedaddy/go-template)
 
 ## Blockchain
 
-* [go-indexed](https://github.com/bonedaddy/go-indexed)
-* [go-defi](https://github.com/bonedaddy/go-defi)
+* [go-indexed - Go language sdk for working with Indexed Finance](https://github.com/bonedaddy/go-indexed)
+* [go-defi - Go language sdk for working wiht DeFi and Ethereum](https://github.com/bonedaddy/go-defi)
+* [circuitbreaker - Go language micrsoervice for a circuit breaker with balancer based amms](https://github.com/indexed-finance/circuit-breaker)
 
 ## Decentralized Networks
 
-* [Temporal](https://github.com/RTradeLtd/Temporal)
-* [libcp2p](https://github.com/RTradeLtd/libcp2p)
+* [Temporal - Go language microservice for running a publicly accessible IPFS pinning service with integrated billing and user management](https://github.com/RTradeLtd/Temporal)
+* [libcp2p - C language library for a libp2p-like protocol](https://github.com/RTradeLtd/libcp2p)
 
 ## Cybersecurity
 
-* [escort](https://github.com/bonedaddy/escort)
+* [escort - PowerShell sdk for delivering malicious payloads via DNS to bypass AV detection](https://github.com/bonedaddy/escort)
