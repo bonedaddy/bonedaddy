@@ -14,16 +14,6 @@ stuff i've worked on that includes pinned repositories and more
 * [circuitbreaker - Go language micrsoervice for a circuit breaker with balancer based amms](https://github.com/indexed-finance/circuit-breaker)
 * [serum-crank, a multi-market crank for Serum DEX](https://github.com/sol-farm/serum-crank)
 
-
-
-
-
-## Misc
-
-* [cnet - C language network programming helper library](https://github.com/bonedaddy/cnet)
-* [ulog - C language logging library](https://github.com/bonedaddy/ulog)
-* [gotemplate - Go language template repository for starting new applications](https://github.com/bonedaddy/go-template)
-
 ## Decentralized Networks
 
 * [Temporal - Go language microservice for running a publicly accessible IPFS pinning service with integrated billing and user management](https://github.com/RTradeLtd/Temporal)
@@ -32,3 +22,9 @@ stuff i've worked on that includes pinned repositories and more
 ## Cybersecurity
 
 * [escort - PowerShell sdk for delivering malicious payloads via DNS to bypass AV detection](https://github.com/bonedaddy/escort)
+
+## Misc
+
+* [cnet - C language network programming helper library](https://github.com/bonedaddy/cnet)
+* [ulog - C language logging library](https://github.com/bonedaddy/ulog)
+* [gotemplate - Go language template repository for starting new applications](https://github.com/bonedaddy/go-template)
