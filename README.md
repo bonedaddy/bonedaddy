@@ -8,17 +8,21 @@
 
 stuff i've worked on that includes pinned repositories and more
 
+## Blockchain
+
+* [go-indexed - Go language sdk for working with Indexed Finance](https://github.com/bonedaddy/go-indexed)
+* [circuitbreaker - Go language micrsoervice for a circuit breaker with balancer based amms](https://github.com/indexed-finance/circuit-breaker)
+* [serum-crank, a multi-market crank for Serum DEX](https://github.com/sol-farm/serum-crank)
+
+
+
+
+
 ## Misc
 
 * [cnet - C language network programming helper library](https://github.com/bonedaddy/cnet)
 * [ulog - C language logging library](https://github.com/bonedaddy/ulog)
 * [gotemplate - Go language template repository for starting new applications](https://github.com/bonedaddy/go-template)
-
-## Blockchain
-
-* [go-indexed - Go language sdk for working with Indexed Finance](https://github.com/bonedaddy/go-indexed)
-* [go-defi - Go language sdk for working wiht DeFi and Ethereum](https://github.com/bonedaddy/go-defi)
-* [circuitbreaker - Go language micrsoervice for a circuit breaker with balancer based amms](https://github.com/indexed-finance/circuit-breaker)
 
 ## Decentralized Networks
 
