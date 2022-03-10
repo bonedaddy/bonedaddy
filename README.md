@@ -22,7 +22,7 @@ select OSS projects i've worked
 
 ## Cybersecurity
 
-* [escort - PowerShell sdk for delivering malicious payloads via DNS to bypass AV detection](https://github.com/bonedaddy/escort)
+* [escort - SDK for covert distribution of payloads via DNS queries as a mechanism for bypassing detection](https://github.com/bonedaddy/escort)
 
 ## Misc
 
