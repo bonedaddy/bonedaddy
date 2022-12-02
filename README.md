@@ -1,13 +1,13 @@
 # Overview
 
 - 📫 How to reach me: catch@bonedaddy.io
-- 👨‍💻 Working on: Tulip Protocol
+- 👨‍💻 Working on: Tulip Protocol 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=bonedaddy&hide=stars&hide_rank=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true)](https://github.com/bonedaddy/bonedaddy)
 
 # Stuff I've Worked on 
 
-select OSS projects i've worked 
+OSS projects i've worked 
 
 ## Blockchain
 
@@ -15,10 +15,6 @@ select OSS projects i've worked
 * [circuitbreaker - Go language micrsoervice for a circuit breaker with balancer based amms](https://github.com/indexed-finance/circuit-breaker)
 * [serum-crank, a multi-market crank for Serum DEX](https://github.com/sol-farm/serum-crank)
 
-## Decentralized Networks
-
-* [Temporal - Go language microservice for running a publicly accessible IPFS pinning service with integrated billing and user management](https://github.com/RTradeLtd/Temporal)
-* [libcp2p - C language library for a libp2p-like protocol](https://github.com/RTradeLtd/libcp2p)
 
 ## Cybersecurity
 
