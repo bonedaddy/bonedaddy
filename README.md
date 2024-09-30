@@ -11,6 +11,7 @@ OSS projects i've worked
 
 ## Blockchain
 
+* [sb-dl - solana indexer with support for real-time + historical data](https://github.com/rangesecurity/sb-dl)
 * [go-indexed - Go language sdk for working with Indexed Finance](https://github.com/bonedaddy/go-indexed)
 * [circuitbreaker - Go language micrsoervice for a circuit breaker with balancer based amms](https://github.com/indexed-finance/circuit-breaker)
 * [serum-crank, a multi-market crank for Serum DEX](https://github.com/sol-farm/serum-crank)
